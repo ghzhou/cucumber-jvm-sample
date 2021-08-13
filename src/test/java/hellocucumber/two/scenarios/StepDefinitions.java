@@ -1,10 +1,8 @@
-package hellocucumber.passed;
+package hellocucumber.two.scenarios;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-
-import static org.junit.Assert.*;
 
 public class StepDefinitions {
     @Given("the following people exist:")
